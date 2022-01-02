@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓 Formado em Administração de Empresas.
 - 👨🏻‍🎓 MBA em Gestão Estratégica de Negócios. 
-- 🌱 Atualmente estou estudando HTML, CSS e JavaScript.
+- 🌱 Atualmente estou estudando React, TypeScript e Styled-Components.
 <!--
 **Matheussgsilva/Matheussgsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
