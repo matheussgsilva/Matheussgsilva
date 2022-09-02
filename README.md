@@ -1,4 +1,4 @@
-### Olá! Bem vindx ao meu perfil!! <div class="tenor-gif-embed" data-postid="21042583" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583">Dm4uz3 Foekoe Sticker</a>from <a href="https://tenor.com/search/dm4uz3-stickers">Dm4uz3 Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+### Olá! Bem vindx ao meu perfil!! 👋
 
 - 👨🏻‍🎓 Formado em Administração de Empresas.
 - 👨🏻‍🎓 MBA em Gestão Estratégica de Negócios.
@@ -6,7 +6,6 @@
 - 🌱 Atualmente estou estudando TypeScript e Node.
 
 
-### Possuo conhecimento em:
 <div style="display: inline_block"><br> 
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
