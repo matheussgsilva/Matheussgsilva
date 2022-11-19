@@ -3,7 +3,7 @@
 - 👨🏻‍🎓 Formado em Administração de Empresas.
 - 👨🏻‍🎓 MBA em Gestão Estratégica de Negócios.
 - 🔭 Em processo de migração de carreira.
-- 🌱 Atualmente estou estudando TypeScript e Node.
+- 🌱 Atualmente estou estudando Angular e Ruby on Rails.
 
 
 <div style="display: inline_block"><br> 
